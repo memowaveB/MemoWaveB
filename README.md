@@ -1,3 +1,3 @@
 MemoWaveB
 =========
-This section is dedicated to robotics.
+This section is dedicated to robotics (Bots).
